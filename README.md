@@ -8,7 +8,10 @@
   * Muhammad Irza D.
  * Download for edit the code your own
  * Upload and commit change if done
- * Notice! Don't Upload your code to main Folder before cross-check and ensure its stability
+ ### Main Folder named: Final Project (Main)
+ * Notice! Don't Upload your code to Main Folder before cross-check and ensure its stability
+ * For contributor who want to contribute, please create new folder with your name.
+ * When your code is accepted, it will be copied to Main Folder
  #### Thank you!
  ##### Rafli Athala Jaskandi
  
