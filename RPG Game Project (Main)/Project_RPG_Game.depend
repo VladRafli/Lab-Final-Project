@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1574574269 source:e:\work\coding\c training (dev c++)\some project\rpg game project\login.c
+	"linker.h"
+
+1574574449 source:e:\work\coding\c training (dev c++)\some project\rpg game project\main_program.c
+	"linker.h"
+
+1574576670 e:\work\coding\c training (dev c++)\some project\rpg game project\linker.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1574509544 source:e:\work\coding\c training (dev c++)\some project\rpg game project\main_menu.c
+	"linker.h"
+
+1574477158 source:e:\work\coding\c training (dev c++)\some project\rpg game project\buy_weapon.c
+	"linker.h"
+
+1574477268 source:e:\work\coding\c training (dev c++)\some project\rpg game project\boss.c
+	"linker.h"
+
+1574476462 source:e:\work\coding\c training (dev c++)\some project\rpg game project\died.c
+	"linker.h"
+
+1574476469 source:e:\work\coding\c training (dev c++)\some project\rpg game project\quit.c
+	"linker.h"
+
+1574509762 source:e:\work\coding\c training (dev c++)\some project\rpg game project\rest.c
+	"linker.h"
+
+1574509574 source:e:\work\coding\c training (dev c++)\some project\rpg game project\about.c
+	"linker.h"
+
+1574509923 source:e:\work\coding\c training (dev c++)\some project\rpg game project\inventory.c
+	"linker.h"
+
+1574508832 source:e:\work\coding\c training (dev c++)\some project\rpg game project\game_menu.c
+	"linker.h"
+
+1574509922 source:e:\work\coding\c training (dev c++)\some project\rpg game project\load_game.c
+	"linker.h"
+
+1574509504 source:e:\work\coding\c training (dev c++)\some project\rpg game project\pause_menu.c
+	"linker.h"
+
+1574575068 source:e:\work\coding\c training (dev c++)\some project\rpg game project\save_load_menu.c
+	"linker.h"
+
+1574509574 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\about.c
+	"linker.h"
+
+1574576670 e:\work\coding\c training (dev c++)\some project\rpg game project (main)\linker.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1574477268 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\boss.c
+	"linker.h"
+
+1574477158 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\buy_weapon.c
+	"linker.h"
+
+1574476462 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\died.c
+	"linker.h"
+
+1574508832 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\game_menu.c
+	"linker.h"
+
+1574509923 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\inventory.c
+	"linker.h"
+
+1574509922 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\load_game.c
+	"linker.h"
+
+1574574269 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\login.c
+	"linker.h"
+
+1574509544 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\main_menu.c
+	"linker.h"
+
+1574574449 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\main_program.c
+	"linker.h"
+
+1574575221 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\pause_menu.c
+	"linker.h"
+
+1574476469 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\quit.c
+	"linker.h"
+
+1574509762 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\rest.c
+	"linker.h"
+
+1574576667 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\save_game.c
+	"linker.h"
+
+1574575068 source:e:\work\coding\c training (dev c++)\some project\rpg game project (main)\save_load_menu.c
+	"linker.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1576034895 source:e:\work\coding\c training (dev c++)\some project\rpg game project (new rev)\rpg game\main.c
+	"main.h"
+
+1576118915 e:\work\coding\c training (dev c++)\some project\rpg game project (new rev)\rpg game\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1575979395 e:\work\coding\c training (dev c++)\some project\rpg game project (new rev)\rpg game\login.h
+	<stdio.h>
+	<string.h>
+
+1576048320 source:e:\work\coding\c training (dev c++)\some project\rpg game project (new rev)\rpg game\weapon_shop.c
+	"main.h"
+

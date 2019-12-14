@@ -1,0 +1,64 @@
+# Project: Funny Game
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o about.o boss.o buy_weapon.o died.o game_menu.o inventory.o load_game.o login.o main_menu.o pause_menu.o quit.o rest.o
+LINKOBJ  = main.o about.o boss.o buy_weapon.o died.o game_menu.o inventory.o load_game.o login.o main_menu.o pause_menu.o quit.o rest.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = "Funny Game.exe"
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.c
+	$(CC) -c main.c -o main.o $(CFLAGS)
+
+about.o: about.c
+	$(CC) -c about.c -o about.o $(CFLAGS)
+
+boss.o: boss.c
+	$(CC) -c boss.c -o boss.o $(CFLAGS)
+
+buy_weapon.o: buy_weapon.c
+	$(CC) -c buy_weapon.c -o buy_weapon.o $(CFLAGS)
+
+died.o: died.c
+	$(CC) -c died.c -o died.o $(CFLAGS)
+
+game_menu.o: game_menu.c
+	$(CC) -c game_menu.c -o game_menu.o $(CFLAGS)
+
+inventory.o: inventory.c
+	$(CC) -c inventory.c -o inventory.o $(CFLAGS)
+
+load_game.o: load_game.c
+	$(CC) -c load_game.c -o load_game.o $(CFLAGS)
+
+login.o: login.c
+	$(CC) -c login.c -o login.o $(CFLAGS)
+
+main_menu.o: main_menu.c
+	$(CC) -c main_menu.c -o main_menu.o $(CFLAGS)
+
+pause_menu.o: pause_menu.c
+	$(CC) -c pause_menu.c -o pause_menu.o $(CFLAGS)
+
+quit.o: quit.c
+	$(CC) -c quit.c -o quit.o $(CFLAGS)
+
+rest.o: rest.c
+	$(CC) -c rest.c -o rest.o $(CFLAGS)
