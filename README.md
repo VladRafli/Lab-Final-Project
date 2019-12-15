@@ -16,8 +16,8 @@
  ##### Rafli Athala Jaskandi
  
  # Update!
- * Dont edit the Main Code first!
- * I still simplified the code for more better looking code and easy readable and understanding
+ * Now you can edit the Main Code
+ * Was already been simplified...
  
  ### Contributor:
  ##### VladRafli
