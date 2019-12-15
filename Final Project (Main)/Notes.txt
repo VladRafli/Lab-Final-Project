@@ -1,0 +1,8 @@
+Yang belum dibuat:
+- Sistem Inventory
+- Sistem Save and Load
+
+Hal tersebut membutuhkan pemahaman File Processing
+Sisanya tidak ada masalah.
+
+Rafli
