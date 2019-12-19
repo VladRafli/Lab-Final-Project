@@ -1,0 +1,14 @@
+Yang belum dibuat:
+- Sistem Inventory
+- Sistem Save and Load
+
+Hal tersebut membutuhkan pemahaman File Processing
+Sisanya tidak ada masalah.
+
+Update 19/12/2019
+
+- Achievement available...
+
+Game Version 1.19.12.19
+
+Rafli
